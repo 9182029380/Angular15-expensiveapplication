@@ -1,0 +1,27 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "title": "Groceries",
+      "amount": 150.50,
+      "category": "Food",
+      "date": "2024-01-15",
+      "description": "Weekly grocery shopping"
+    },
+    {
+      "id": 2,
+      "title": "Internet Bill",
+      "amount": 60.00,
+      "category": "Utilities",
+      "date": "2024-01-10",
+      "description": "Monthly internet subscription"
+    }
+  ],
+  "categories": [
+    {"id": 1, "name": "Food"},
+    {"id": 2, "name": "Utilities"},
+    {"id": 3, "name": "Transportation"},
+    {"id": 4, "name": "Entertainment"},
+    {"id": 5, "name": "Shopping"}
+  ]
+}
